@@ -1,3 +1,3 @@
 to jest lokalny
 
-to tekst z serwera
+inny tekst

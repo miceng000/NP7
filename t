@@ -1,3 +1,3 @@
 to jest lokalny
 
-inny tekst
+raz dwa trzy
